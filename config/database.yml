@@ -88,3 +88,7 @@ production:
   
   
   #<%= ENV['SJPROJECT495_DATABASE_PASSWORD'] %>
+
+
+
+#add username and password of pgadmin, add those to all three sections, then db:migrate.
